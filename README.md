@@ -60,6 +60,6 @@
 
     make
 
-    ./philo <num_of_philos> <time_to_die> <time_to_eat> <time_to_sleep> [times_each_philosopher_must_eat]
+    ./philo <num_of_philos> <time_to_die> <time_to_eat> <time_to_sleep> [num_of_eats]
 
 ![ClearlyDefined Score](https://img.shields.io/badge/success-125%2F100-brightgreen)
